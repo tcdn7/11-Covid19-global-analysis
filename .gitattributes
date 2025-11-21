@@ -1,0 +1,3 @@
+*.py text eol=lf
+*.ipynb binary
+*.csv text eol=lf
